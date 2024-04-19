@@ -2,8 +2,8 @@
 
 <img align="right" alt ="coding" width="550" src="https://github.com/AnkitWalde/AnkitWalde/blob/main/3e99b9_f53a1cab95ae4dfd938a1bf6a1a62f49~mv2.gif">
 
-- 🔭 I’m currently working on AlmaBetter
-- 🌱 I’m currently learning SQL, Python, Power BI
+- 🔭 I’m currently working as a Data Analyst at 8 Gigabytes Ventures Llp
+- 🌱 Skill Used SQL, Python, Power BI, M.S SOL Server , M.S Excel
 
 
 <!--
