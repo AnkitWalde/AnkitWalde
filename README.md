@@ -4,6 +4,7 @@
 
 - 🔭 I’m currently working as a Data Analyst at 8 Gigabytes Ventures Llp
 - 🌱Tools & Languages: Python, MySQL, PowerBI, MS Excel, Google sheets, PostgreSQL, MS SQL Server
+- I regurarly writes article on Medium portal -  https://medium.com/@ankitwalde
 
 
 <!--
