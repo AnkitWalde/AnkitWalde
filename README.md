@@ -2,7 +2,7 @@
 
 <img align="right" alt ="coding" width="550" src="https://github.com/AnkitWalde/AnkitWalde/blob/main/3e99b9_f53a1cab95ae4dfd938a1bf6a1a62f49~mv2.gif">
 
-- 🔭 I’m currently working as a Data Analyst at 8 Gigabytes Ventures Llp
+- 🔭 I’m currently working as a Data Analyst at Rite Water Solutions India Pvt. Ltd.
 - 🌱 Tools & Languages: Python, MySQL, PowerBI, MS Excel, Google sheets, PostgreSQL, MS SQL Server
 - 💬 I regurarly writes article on Medium portal -  https://medium.com/@ankitwalde
 - 📫 How to reach me ankitwalde@gmail.com 
